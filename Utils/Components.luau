@@ -9,8 +9,8 @@ return(function(Managers, Cached, Options, Importer)
 
     do
         Components.Info = {
-            Title = "Xova's official",
-            Description = "© 2026 Xova. All rights reserved.",
+            Title = "Liquid's Project",
+            Description = "© 2026 Liquid. All rights reserved.",
             Logo = 139279406289857,
             Highligh = Color3.fromRGB(255, 255, 255),
             Transparent = true
