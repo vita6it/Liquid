@@ -69,6 +69,7 @@ return(function(Folder)
     end
 
     Settings = Managers.Load()
+    Managers.Setting = Settings
 
     return Managers, Settings
 end)
