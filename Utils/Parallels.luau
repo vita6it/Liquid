@@ -24,6 +24,8 @@ return(function(RunService)
                 end)
             end
         end
+        
+        Parallels.Cached = Threads
     end
 
     do
