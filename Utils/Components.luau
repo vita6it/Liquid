@@ -4,7 +4,7 @@ return(function(Managers, Cached, Options, Importer)
 
     local Components = {}
 
-    local Library = Importer('Module', 'Library.luau')
+    local Library = Importer('Utils', 'Library.luau')
     local Setting: { [ string ]: any } = Managers.Setting or {}
 
     do
